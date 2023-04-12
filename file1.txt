@@ -1,2 +1,13 @@
+Initial commit.
+
+This comit contains file1 and file2 text files.
+
+
+
+
+
+
+
 hello world
-this is vaun
+This is vaun
+Learn new stuff here
